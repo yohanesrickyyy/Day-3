@@ -1,0 +1,20 @@
+/*structure CSS*/
+/*selector{
+  property: value;
+}*/ 
+
+/*  Cara menggunakan ID yaitu menggunakan # atau hash */
+#btn-group {
+  background-color: red;
+}
+
+/* cara menggunakan Class yaitu menggunakan . atau titik*/
+.kelas2 {
+  background-color: aqua;
+}
+
+/*Padding itu yang gerak object yang didalam
+analoginya padding itu yang bergerak orang yang berpindah di rumah dari dapur ke kamar*/
+
+/*Margin yang bergerak itu kotak yang diluar
+analoginya itu rumahnya yang digeser*/

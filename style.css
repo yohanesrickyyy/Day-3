@@ -1,0 +1,35 @@
+html {
+  background-color: rgb(247, 248, 252);
+}
+
+/* Desktop Navbar */
+#desktop-nav,
+.nav-links {
+  display: flex;
+}
+#desktop-nav {
+  justify-content: space-around;
+}
+
+.nav-links {
+  background-color: rgb(255, 255, 255);
+  gap: 1.5rem;
+  list-style: none;
+  font-size: 1.5rem;
+  float: right;
+  padding-left: 152vh;
+  font-size: 13px;
+  position: relative;
+  height: 25px;
+  align-items: center;
+}
+
+a {
+  color: grey;
+  text-decoration: none;
+  text-decoration-color: black;
+}
+
+a:hover {
+  color: black;
+}
